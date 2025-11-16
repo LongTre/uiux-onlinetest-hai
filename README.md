@@ -1,1 +1,2 @@
-# uiux-onlinetest-hai
+Hồng Thái – UI/UX Assignment
+Ứng viên: Bùi Hoàng Long
